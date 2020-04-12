@@ -4,5 +4,4 @@
 * This app uses google sheets as a database
 * App also contains features such as Qrcode scanning
 * You can update data from thew app to google sheets also
-- [x] task
-- [ ] task2
+* This app uses firebase for authenticating user
